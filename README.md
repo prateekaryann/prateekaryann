@@ -21,7 +21,7 @@
 - **Tech Lead & Full Stack Developer** with a passion for clean architecture and developer experience
 - Currently contributing to **[Gumroad](https://github.com/antiwork/gumroad)** — open source e-commerce platform used by millions of creators
 - Building production-grade systems with **React**, **TypeScript**, **Node.js**, **FastAPI**, **Django**, **Docker**, and **Kubernetes**
-- Writing technical deep-dives on **[Medium](https://medium.com/@prateekaryann)**
+- Writing technical deep-dives on **[Medium](https://medium.com/@prateekaryyan)**
 - Always shipping — from system design to pixel-perfect UI
 
 <br/>
