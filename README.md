@@ -1,181 +1,60 @@
-<div align="center">
+# Prateek Aryan
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:0a1628,70:180536,100:0d0d1a&height=220&section=header&text=PRATEEK%20ARYAN&fontSize=58&fontColor=00fff0&animation=fadeIn&fontAlignY=38&desc=%3E_%20TECH%20LEAD%20%2F%2F%20FULL%20STACK%20ENGINEER%20%2F%2F%20OPEN%20SOURCE%20OPERATIVE&descAlignY=58&descAlign=50&descColor=ff6b35" />
+**Senior Backend Engineer** — Python, FastAPI, AWS. I build distributed systems and DevOps automation that runs at enterprise scale.
 
-<br/>
+5+ years across [Cisco Systems](https://www.cisco.com) and [UsefulBI](https://usefulbi.com). Most recent wins:
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=2500&pause=800&color=00FFF0&center=true&vCenter=true&width=800&height=50&lines=%5BSYSTEM+ONLINE%5D+Booting+neural+interface...;%3E+Tech+Lead+%26+Full+Stack+Engineer;%3E+React+%7C+TypeScript+%7C+Node.js+%7C+Python;%3E+FastAPI+%7C+Django+%7C+Docker+%7C+Kubernetes;%3E+Operator+%40+Gumroad+%5BOPEN+SOURCE%5D;%3E+Building+the+future%2C+one+commit+at+a+time_)](https://git.io/typing-svg)
+- **Cut a clinical document retrieval API from 7–8s to <50ms** (99.3% reduction) — replaced synchronous S3 polling with an indexed DB registry, turning O(n) prefix scans into O(1) lookups.
+- **Architected an FDA 21 CFR Part 11–compliant document platform** on FastAPI + PostgreSQL — audit trails, versioning, RBAC across 12+ modules.
+- **Orchestrated LLM workflows at scale** with AWS Step Functions + Bedrock — section-wise generation, validation, and assembly over Lambda.
+- **Automated database operations for 200+ enterprise applications** at Cisco — reduced manual DBA workload by 80%.
 
-<br/>
+Currently open to senior backend contracts and consulting. Based in Bengaluru (IST). Comfortable across US and EU time overlap.
 
-<img src="https://komarev.com/ghpvc/?username=prateekaryann&style=for-the-badge&color=00fff0&labelColor=0d0d1a&label=UPLINK+COUNT" />
-&nbsp;
-<a href="https://github.com/prateekaryann?tab=followers">
-  <img src="https://img.shields.io/github/followers/prateekaryann?style=for-the-badge&color=ff6b35&labelColor=0d0d1a&label=AGENTS+FOLLOWING" />
-</a>
+---
 
-</div>
+## What I work with
 
-<br/>
+**Languages** — Python, JavaScript, TypeScript
+**Backend** — FastAPI, Django, Flask, Express, gRPC, REST
+**Data** — PostgreSQL, MongoDB, MySQL, Oracle, Redis, Cassandra, Kafka
+**Cloud & infra** — AWS (Bedrock, EKS, ECR, RDS, S3, Lambda, Step Functions), Docker, Kubernetes, Terraform, Ansible, Helm, Jenkins
+**Specializations** — Distributed systems, resiliency & reliability, microservices, DevOps automation, LLM orchestration
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:00fff020,100:0d0d1a&height=2" />
+**Certifications** — MongoDB Certified DBA · AWS Certified Cloud Practitioner · HashiCorp Terraform Associate · PCAP — Python Programming
 
-<br/>
+---
 
-## `▸ NEURAL IDENTITY`
+## Featured work
 
-```terminal
-> OPERATOR     ::  Prateek Aryan
-> CLASS        ::  Tech Lead // Full Stack Engineer
-> FACTION      ::  Open Source [ github.com/antiwork/gumroad ]
-> STACK        ::  React · TypeScript · Node.js · Python · FastAPI · Django
-> INFRA        ::  Docker · Kubernetes · AWS · Nginx · Terraform
-> THREAT LVL   ::  ████████████ MAX
-> STATUS       ::  ONLINE ▋
-```
+### 🔍 [documind](https://github.com/prateekaryann/documind)
+Production-grade **RAG Document Q&A API** — FastAPI + pgvector + Celery + SSE streaming. Multi-tenant, rate-limited, source citations.
+`FastAPI` · `PostgreSQL` · `pgvector` · `Celery` · `Redis` · `OpenAI/Anthropic`
 
-<br/>
+### 🎧 [deep-focus-studio](https://github.com/prateekaryann/deep-focus-studio) · [Live](https://prateekaryann.github.io/deep-focus-studio)
+Neuroscience-backed ambient sound & focus timer — full media player, synth engine, binaural beats, nature sounds.
+`React` · `Web Audio API` · `Vite`
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:00fff020,100:0d0d1a&height=2" />
+### 🎛️ [dj-visualizer](https://github.com/prateekaryann/dj-visualizer)
+Real-time mic-reactive 3D WebGL visualizer for DJs, electronic music, and live streams.
+`Three.js` · `Web Audio API` · `WebGL`
 
-<br/>
+### 💻 [portfolio](https://github.com/prateekaryann/portfolio)
+Personal site and case studies. Currently being rebuilt on Astro for static generation.
 
-## `▸ TECH ARSENAL`
+---
 
-**[ INTERFACE LAYER ]**
+## Reach out
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,ts,js,nextjs,tailwind,html,css,redux&theme=dark&perline=8" />
-</p>
+- 🌐 **Portfolio** — [prateekaryann.github.io/portfolio](https://prateekaryann.github.io/portfolio)
+- 💼 **LinkedIn** — [linkedin.com/in/prateek-aryan](https://linkedin.com/in/prateek-aryan)
+- ✉️ **Email** — prateekaryyan@gmail.com
 
-**[ BACKEND PROTOCOLS ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,python,express,graphql,ruby,rails&theme=dark&perline=8" />
-</p>
-
-**[ DATA VAULTS ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite&theme=dark&perline=8" />
-</p>
-
-**[ DEPLOYMENT GRID ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,githubactions,linux,terraform&theme=dark&perline=8" />
-</p>
-
-**[ OPERATOR TOOLS ]**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,jest&theme=dark&perline=8" />
-</p>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:ff6b3520,100:0d0d1a&height=2" />
-
-<br/>
-
-## `▸ SYSTEM METRICS`
+---
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=prateekaryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00fff0&text_color=c9d1d9&icon_color=ff6b35&ring_color=9d00ff" />
-&nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekaryann&layout=compact&langs_count=8&hide_border=true&bg_color=0d0d1a&title_color=00fff0&text_color=c9d1d9" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=prateekaryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=57606a&bg_color=ffffff" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekaryann&layout=compact&langs_count=8&hide_border=true&title_color=0969da&text_color=57606a&bg_color=ffffff" />
 
 </div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=prateekaryann&hide_border=true&background=0D0D1A&stroke=00FFF040&ring=00FFF0&fire=FF6B35&currStreakLabel=00FFF0&sideLabels=00FFF0&sideNums=FF6B35&currStreakNum=FF6B35&dates=808080" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:9d00ff20,100:0d0d1a&height=2" />
-
-<br/>
-
-## `▸ COMBAT RECORD`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prateekaryann&theme=radical&no-frame=true&no-bg=true&margin-w=6&row=1" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:00fff020,100:0d0d1a&height=2" />
-
-<br/>
-
-## `▸ COMBAT LOG`
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prateekaryann&bg_color=0d0d1a&color=00fff0&line=ff6b35&point=9d00ff&area=true&area_color=00fff0&hide_border=true" />
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:ff6b3520,100:0d0d1a&height=2" />
-
-<br/>
-
-## `▸ NEURAL PATHWAYS`
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prateekaryann/prateekaryann/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prateekaryann/prateekaryann/output/github-contribution-grid-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/prateekaryann/prateekaryann/output/github-contribution-grid-snake-dark.svg" />
-</picture>
-
-</div>
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d0d1a,50:9d00ff20,100:0d0d1a&height=2" />
-
-<br/>
-
-## `▸ UPLINK PROTOCOLS`
-
-<div align="center">
-
-<a href="https://linkedin.com/in/prateekaryann">
-  <img src="https://img.shields.io/badge/LINKEDIN-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00fff0&labelColor=0d0d1a&color=00fff0" />
-</a>
-&nbsp;
-<a href="https://twitter.com/prateekaryann">
-  <img src="https://img.shields.io/badge/TWITTER%20%2F%20X-0d0d1a?style=for-the-badge&logo=x&logoColor=ff6b35&labelColor=0d0d1a&color=ff6b35" />
-</a>
-&nbsp;
-<a href="https://medium.com/@prateekaryann">
-  <img src="https://img.shields.io/badge/MEDIUM-0d0d1a?style=for-the-badge&logo=medium&logoColor=9d00ff&labelColor=0d0d1a&color=9d00ff" />
-</a>
-&nbsp;
-<a href="https://prateekaryann.dev">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0d0d1a?style=for-the-badge&logo=firefox&logoColor=00fff0&labelColor=0d0d1a&color=00fff0" />
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-\`\`\`
-[ CONNECTION TERMINATED ] ░░░░░░░░░░░░░░░░░ GOODBYE, OPERATOR ▋
-\`\`\`
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,40:180536,70:0a1628,100:0d0d1a&height=120&section=footer" />
