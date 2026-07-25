@@ -52,9 +52,25 @@ Personal site and case studies. Currently being rebuilt on Astro for static gene
 
 ---
 
+## Contributions
+
+<!-- Cyberpunk cyan theme matching profile avatar — neon #00e5ff on #0a0e1a -->
+
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=prateekaryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0969da&icon_color=0969da&text_color=57606a&bg_color=ffffff" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prateekaryann&layout=compact&langs_count=8&hide_border=true&title_color=0969da&text_color=57606a&bg_color=ffffff" />
+![Contribution graph](https://ghchart.rshah.org/00e5ff/prateekaryann)
+
+<br/>
+
+![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prateekaryann&bg_color=0a0e1a&color=00e5ff&line=00e5ff&point=ff2d95&area=true&hide_border=true&area_color=00e5ff)
+
+<br/>
+
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api?username=prateekaryann&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00e5ff&icon_color=00e5ff&text_color=c8d6e5&bg_color=0a0e1a" />
+<img height="165" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=prateekaryann&layout=compact&langs_count=8&hide_border=true&title_color=00e5ff&text_color=c8d6e5&bg_color=0a0e1a" />
+
+<br/>
+
+<img height="165" src="https://streak-stats.demolab.com?user=prateekaryann&theme=dark&hide_border=true&background=0A0E1A&ring=00E5FF&fire=00E5FF&currStreakNum=C8D6E5&sideNums=C8D6E5&currStreakLabel=00E5FF&sideLabels=8590A8&dates=8590A8" alt="GitHub streak" />
 
 </div>
